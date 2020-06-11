@@ -1,0 +1,1253 @@
+ID,Seek_Help,Anonymity,Leave,Mental_Health_Consequence,Phys_Health_Consequence,Coworkers,Supervisor,Willingness_Mental_Health,Phys_Health_Interview,Mental_vs_Physical,Obs_Consequence,Age_Tier
+0,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+1,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+2,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No,Matured_Young
+3,No,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,Young
+4,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Young
+5,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+6,No,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+7,No,Yes,Don't know,No,No,No,No,No,No,No,No,Matured_Young
+8,No,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,Matured_Young
+9,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+10,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+11,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Young
+12,No,Don't know,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,Matured_Young
+13,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+14,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Young
+15,No,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,Young
+16,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No,Young
+17,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,Matured_Young
+18,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,Middle_Aged
+19,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+20,No,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Young
+21,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+22,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Middle_Aged
+23,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,No,Matured_Young
+24,Yes,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Matured_Young
+25,Don't know,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,Matured_Young
+26,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+27,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+28,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No,Matured_Young
+29,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Matured_Young
+30,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+31,No,Don't know,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,Young
+32,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No,Young
+33,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,Matured_Young
+34,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,No,Matured_Young
+35,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+36,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Young
+37,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+38,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Middle_Aged
+39,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+40,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,Young
+41,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+42,No,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No,Young
+43,No,Don't know,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No,Young
+44,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,Young
+45,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+46,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+47,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Matured_Young
+48,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Young
+49,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+50,No,Yes,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+51,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+52,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+53,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+54,No,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,Young
+55,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Young
+56,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+57,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No,Young
+58,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+59,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Matured_Young
+60,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,Matured_Young
+61,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+62,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+63,No,Don't know,Very easy,Yes,No,No,No,No,No,No,Yes,Young
+64,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+65,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Yes,Matured_Young
+66,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+67,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,Matured_Young
+68,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+69,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+70,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Young
+71,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+72,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,Young
+73,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Matured_Young
+74,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Matured_Young
+75,No,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,Young
+76,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+77,No,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+78,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No,Matured_Young
+79,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Young
+80,Yes,Don't know,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,Matured_Young
+81,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+82,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,No,No,Young
+83,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Young
+84,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Matured_Young
+85,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Young
+86,No,Don't know,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,Matured_Young
+87,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+88,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,Young
+89,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+90,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Young
+91,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,Matured_Young
+92,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+93,No,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Young
+94,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+95,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,Young
+96,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Young
+97,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,No,Young
+98,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Matured_Young
+99,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+100,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,Young
+101,Don't know,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Matured_Young
+102,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+103,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+104,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+105,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+106,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Matured_Young
+107,No,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Yes,Young
+108,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+109,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+110,Don't know,Yes,Don't know,Yes,No,No,No,No,Yes,No,No,Young
+111,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+112,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Middle_Aged
+113,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+114,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+115,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,Young
+116,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,Young
+117,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+118,No,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,No,Young
+119,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+120,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Young
+121,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+122,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Matured_Young
+123,No,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+124,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Young
+125,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,No,Young
+126,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+127,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No,Matured_Young
+128,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No,Young
+129,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Young
+130,No,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,Matured_Young
+131,No,Don't know,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,Matured_Young
+132,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+133,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No,Matured_Young
+134,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+135,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Matured_Young
+136,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+137,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+138,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+139,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+140,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+141,Yes,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No,Matured_Young
+142,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+143,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+144,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Young
+145,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+146,No,Yes,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Young
+147,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,Young
+148,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes,Young
+149,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Young
+150,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+151,No,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+152,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+153,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+154,Yes,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes,Matured_Young
+155,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Young
+156,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,Young
+157,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,Young
+158,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Young
+159,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,Young
+160,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+161,No,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Young
+162,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+163,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+164,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No,Matured_Young
+165,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+166,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+167,No,Don't know,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,Matured_Young
+168,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Young
+169,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Young
+170,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Young
+171,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+172,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Young
+173,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Young
+174,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Matured_Young
+175,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Young
+176,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+177,Don't know,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,Matured_Young
+178,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Middle_Aged
+179,No,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+180,No,No,Don't know,Maybe,Maybe,No,Yes,Maybe,Yes,No,No,Young
+181,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+182,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+183,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Middle_Aged
+184,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,Matured_Young
+185,No,Don't know,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No,Matured_Young
+186,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+187,No,Don't know,Somewhat easy,No,No,Some of them,No,No,Maybe,Yes,No,Young
+188,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+189,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+190,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+191,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Young
+192,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+193,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+194,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Matured_Young
+195,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Young
+196,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+197,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Young
+198,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Young
+199,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Young
+200,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Young
+201,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+202,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+203,No,Don't know,Very difficult,Yes,No,No,No,No,Yes,Don't know,No,Matured_Young
+204,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+205,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Matured_Young
+206,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+207,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Young
+208,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+209,No,No,Very easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+210,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+211,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+212,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+213,No,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+214,Don't know,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Matured_Young
+215,Don't know,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,Young
+216,No,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+217,Don't know,Yes,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Young
+218,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+219,No,Don't know,Very easy,Yes,No,No,Some of them,No,No,Don't know,No,Matured_Young
+220,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+221,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+222,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+223,No,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No,Young
+224,Don't know,Don't know,Don't know,No,No,No,Yes,No,Yes,Yes,No,Young
+225,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+226,No,Don't know,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+227,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No,Matured_Young
+228,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No,Young
+229,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+230,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+231,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No,Matured_Young
+232,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Matured_Young
+233,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Matured_Young
+234,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Young
+235,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,Young
+236,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Matured_Young
+237,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,Yes,No,Yes,Matured_Young
+238,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Matured_Young
+239,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes,Young
+240,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Young
+241,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+242,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+243,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,No,No,Young
+244,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+245,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,Matured_Young
+246,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+247,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+248,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,Matured_Young
+249,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Young
+250,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,Young
+251,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Young
+252,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+253,Don't know,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Don't know,No,Young
+254,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+255,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Young
+256,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Young
+257,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+258,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,Young
+259,No,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,Young
+260,No,Yes,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,Young
+261,No,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,Young
+262,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,Young
+263,No,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,Young
+264,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+265,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+266,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Matured_Young
+267,Don't know,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,Matured_Young
+268,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Matured_Young
+269,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+270,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Young
+271,Don't know,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+272,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Young
+273,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,Don't know,No,Matured_Young
+274,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Matured_Young
+275,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+276,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+277,No,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Young
+278,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+279,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+280,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes,Young
+281,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+282,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+283,No,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,Matured_Young
+284,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,No,No,Young
+285,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Young
+286,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Young
+287,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+288,No,Don't know,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,Matured_Young
+289,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+290,No,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Young
+291,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+292,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Middle_Aged
+293,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+294,Don't know,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,No,Middle_Aged
+295,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Young
+296,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Young
+297,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,
+298,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Matured_Young
+299,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+300,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Young
+301,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Young
+302,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+303,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,Young
+304,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+305,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+306,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+307,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,Young
+308,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+309,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+310,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+311,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+312,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+313,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Young
+314,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+315,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+316,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+317,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+318,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes,Young
+319,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+320,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+321,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,No,Young
+322,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+323,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+324,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Young
+325,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+326,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Young
+327,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Young
+328,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+329,No,Don't know,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes,Matured_Young
+330,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+331,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Young
+332,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Young
+333,No,Don't know,Very difficult,No,No,No,No,No,No,Don't know,No,Middle_Aged
+334,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No,Young
+335,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Middle_Aged
+336,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+337,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+338,Don't know,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+339,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+340,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,Matured_Young
+341,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+342,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,Young
+343,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+344,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Matured_Young
+345,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+346,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Young
+347,Yes,Don't know,Don't know,No,No,No,Yes,No,No,Don't know,No,Middle_Aged
+348,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+349,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+350,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+351,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,Young
+352,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+353,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+354,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Young
+355,Don't know,Yes,Don't know,No,No,Some of them,No,No,No,No,No,Young
+356,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+357,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Matured_Young
+358,No,Don't know,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+359,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+360,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+361,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,Matured_Young
+362,Don't know,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,Young
+363,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,No,Matured_Young
+365,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,Young
+366,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+367,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+368,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+369,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,Young
+370,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,Young
+371,Yes,Don't know,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Matured_Young
+372,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Middle_Aged
+373,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+374,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Yes,Don't know,No,Young
+375,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Middle_Aged
+376,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,No,Young
+377,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,Young
+378,Yes,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Matured_Young
+379,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Young
+380,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+381,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+382,No,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Young
+383,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No,Young
+384,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Young
+385,Don't know,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No,Young
+386,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+387,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Young
+388,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,Young
+389,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,Matured_Young
+391,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No,Matured_Young
+392,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No,Young
+393,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Young
+394,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,Young
+395,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Young
+396,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Middle_Aged
+397,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+398,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Matured_Young
+399,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+400,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No,Young
+401,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+402,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No,Young
+403,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+404,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+405,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,Young
+406,Yes,Don't know,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,No,Matured_Young
+407,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,Matured_Young
+408,No,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,No,Don't know,No,Young
+409,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Young
+410,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Matured_Young
+411,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Young
+412,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Young
+413,No,Don't know,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No,Young
+414,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,Young
+415,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+416,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No,Young
+417,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Young
+418,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+419,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Yes,Middle_Aged
+420,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Young
+421,No,Don't know,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Young
+422,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Young
+423,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+424,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Young
+425,Yes,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+426,No,Don't know,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Young
+427,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+428,No,Don't know,Don't know,No,No,Yes,No,No,Yes,Don't know,No,Young
+429,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Yes,No,Young
+430,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Young
+431,No,Don't know,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,Young
+432,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,No,Matured_Young
+433,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+434,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+435,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+436,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes,Young
+437,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+438,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+439,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+440,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Young
+441,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+442,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes,Matured_Young
+443,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+444,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Young
+445,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+446,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+447,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Young
+448,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+449,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+450,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+451,Don't know,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,No,Matured_Young
+452,No,Don't know,Very difficult,Yes,No,Some of them,No,No,No,No,Yes,Young
+453,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,Matured_Young
+454,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Young
+455,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Matured_Young
+456,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Young
+457,No,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Matured_Young
+458,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,No,Matured_Young
+459,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+460,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+461,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+462,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Young
+463,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Young
+464,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No,Young
+465,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+466,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Middle_Aged
+467,No,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No,Young
+468,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,Young
+469,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+470,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Young
+471,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Middle_Aged
+472,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Young
+473,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+474,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+475,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,Middle_Aged
+476,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Young
+477,Don't know,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,Young
+478,Don't know,Don't know,Very easy,Yes,No,No,No,No,Maybe,Don't know,No,Young
+479,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+480,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+481,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Don't know,No,Matured_Young
+482,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+483,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+484,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Middle_Aged
+485,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes,Matured_Young
+486,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Young
+487,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Young
+488,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Young
+489,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Matured_Young
+490,Don't know,Yes,Don't know,No,No,No,Some of them,No,No,Yes,No,Young
+491,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+492,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Young
+493,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,Young
+494,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+495,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Yes,Young
+496,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Matured_Young
+497,No,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Young
+498,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,Middle_Aged
+499,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Matured_Young
+500,No,Yes,Don't know,Maybe,Maybe,No,No,No,No,No,No,Matured_Young
+501,No,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Matured_Young
+502,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,Matured_Young
+503,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Young
+504,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Matured_Young
+505,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Middle_Aged
+506,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No,Matured_Young
+507,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+508,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No,Middle_Aged
+509,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+510,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+511,No,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No,Young
+512,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+513,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+514,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,Matured_Young
+515,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+516,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Middle_Aged
+517,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,Matured_Young
+518,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+519,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No,Matured_Young
+520,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,
+521,Don't know,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+522,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Matured_Young
+523,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Yes,Young
+524,No,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Matured_Young
+525,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Matured_Young
+526,Don't know,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+527,No,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes,Middle_Aged
+528,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No,Young
+529,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Young
+530,No,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,Young
+531,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,Young
+532,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Young
+533,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+534,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+535,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No,Young
+536,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No,Matured_Young
+537,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No,No,Young
+538,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+539,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,Young
+540,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Young
+541,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Young
+542,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,Matured_Young
+543,Don't know,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes,Young
+544,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes,Young
+545,No,Don't know,Very easy,Maybe,No,No,Some of them,No,Yes,Yes,No,Young
+546,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+547,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,Matured_Young
+548,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+549,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,Young
+550,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+551,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Matured_Young
+552,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+553,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+554,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Young
+555,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+556,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+557,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+558,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+559,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Young
+560,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,
+561,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No,Young
+562,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Matured_Young
+563,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+564,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,Matured_Young
+565,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+566,Don't know,Yes,Don't know,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+567,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No,Matured_Young
+568,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No,Young
+569,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+570,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,Young
+571,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+572,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Young
+573,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,Young
+574,No,Don't know,Don't know,No,No,No,No,No,Maybe,No,No,Middle_Aged
+575,Don't know,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+576,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Young
+577,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+578,No,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,Young
+579,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+580,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Matured_Young
+581,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Middle_Aged
+582,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,Don't know,Yes,Young
+583,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+584,No,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Young
+585,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+586,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,Young
+587,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Young
+588,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Young
+589,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+590,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Matured_Young
+591,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+592,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Young
+593,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Matured_Young
+594,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+595,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Young
+596,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Young
+597,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+598,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+599,Don't know,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Young
+600,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+601,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Matured_Young
+602,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Matured_Young
+603,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Young
+604,Don't know,Yes,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Young
+605,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Matured_Young
+606,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Middle_Aged
+607,No,Don't know,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,Young
+608,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+609,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Young
+610,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+611,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+612,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Matured_Young
+613,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,Young
+614,No,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Young
+615,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+616,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Matured_Young
+617,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Matured_Young
+618,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+619,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+620,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+621,No,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,Young
+622,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Young
+623,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,Young
+624,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+625,Yes,Don't know,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,Young
+626,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+627,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,Matured_Young
+628,No,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Matured_Young
+629,Don't know,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,Young
+630,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Young
+631,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Middle_Aged
+632,No,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+633,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+634,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+635,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,Young
+636,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes,Matured_Young
+637,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+638,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+639,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,Middle_Aged
+640,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+641,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+642,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes,Young
+643,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,Middle_Aged
+644,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Yes,Young
+645,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Matured_Young
+646,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Young
+647,No,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+648,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Young
+649,No,Don't know,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,Young
+650,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+651,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Young
+652,No,Don't know,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes,Middle_Aged
+653,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Yes,Matured_Young
+654,Yes,Don't know,Very easy,Maybe,No,No,No,No,No,Yes,No,Matured_Young
+655,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,Young
+656,No,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No,Young
+657,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+658,Don't know,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Young
+659,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+660,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Young
+661,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+662,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+663,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+664,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+665,No,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No,Young
+666,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes,Young
+667,Don't know,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Young
+668,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Young
+669,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+670,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,Maybe,Don't know,No,Young
+671,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+672,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Young
+673,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Young
+674,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Matured_Young
+675,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+676,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+677,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Young
+678,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Young
+679,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Middle_Aged
+680,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+681,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+682,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,Young
+683,Don't know,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,Young
+684,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Young
+685,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Young
+686,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+687,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Middle_Aged
+688,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+689,Don't know,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+690,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+691,No,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+692,Don't know,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Maybe,Don't know,No,Young
+693,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+694,No,Don't know,Don't know,Yes,No,No,No,No,Yes,No,No,Matured_Young
+695,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Matured_Young
+696,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+697,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Matured_Young
+698,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,No,Young
+699,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Young
+700,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+701,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,Matured_Young
+702,Don't know,Yes,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+703,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+704,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Matured_Young
+705,No,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Yes,Matured_Young
+706,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Young
+707,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+708,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,Matured_Young
+709,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+710,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+711,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Young
+712,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+713,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Young
+714,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,Matured_Young
+716,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No,Young
+717,No,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+718,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+719,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Young
+720,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+721,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,Young
+722,No,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No,Young
+723,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Young
+724,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+725,No,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Young
+726,No,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Young
+727,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Young
+728,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,Young
+729,No,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes,Matured_Young
+730,No,Don't know,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No,Matured_Young
+731,No,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Young
+732,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Young
+733,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Young
+735,No,Don't know,Very easy,No,No,Yes,Some of them,No,Yes,No,No,Matured_Young
+736,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+737,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+738,Yes,Yes,Don't know,Maybe,No,Yes,Some of them,No,Yes,Yes,No,Young
+739,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Matured_Young
+740,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Matured_Young
+741,No,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,Matured_Young
+742,No,Don't know,Very easy,No,No,No,Some of them,No,Yes,Yes,No,Matured_Young
+743,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+744,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+745,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,Young
+746,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+747,No,No,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Maybe,No,No,Matured_Young
+748,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+749,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,Yes,Don't know,No,Young
+750,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+751,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Matured_Young
+752,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+753,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+754,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+755,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+756,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+757,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,Young
+758,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No,Matured_Young
+759,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Young
+760,No,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No,Young
+761,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,Matured_Young
+762,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+763,No,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Matured_Young
+764,Don't know,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,Young
+765,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+766,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,Matured_Young
+767,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,Yes,Yes,Don't know,No,Young
+768,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Matured_Young
+769,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+770,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+771,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,Matured_Young
+772,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Matured_Young
+773,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,Young
+774,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+775,Yes,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+776,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,No,Matured_Young
+777,Yes,Don't know,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Yes,Matured_Young
+778,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+779,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+780,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+781,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+782,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+783,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+784,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+785,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes,Young
+786,No,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,Matured_Young
+787,Don't know,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+788,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+789,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Matured_Young
+790,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes,Young
+791,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+792,No,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Matured_Young
+793,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes,Matured_Young
+794,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Young
+795,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+796,Don't know,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+797,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes,Young
+798,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,Young
+799,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,Matured_Young
+800,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,Young
+801,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+802,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Matured_Young
+803,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,Young
+804,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+805,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Young
+806,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Matured_Young
+807,Don't know,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Yes,No,Matured_Young
+808,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+809,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+810,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+811,No,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,Young
+812,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Matured_Young
+813,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+814,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+815,Don't know,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Matured_Young
+816,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+817,No,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,Matured_Young
+818,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+819,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Matured_Young
+820,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+821,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Matured_Young
+822,No,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,Matured_Young
+823,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+824,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+825,No,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,Middle_Aged
+826,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+827,No,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+828,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+829,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+830,Yes,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,Young
+831,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+832,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Young
+833,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Young
+834,No,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Matured_Young
+835,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+836,No,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,Young
+837,Don't know,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No,Middle_Aged
+838,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+839,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,Matured_Young
+840,Don't know,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+841,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,Matured_Young
+842,No,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+843,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+844,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+845,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Matured_Young
+846,Don't know,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Matured_Young
+847,No,Don't know,Very easy,No,No,Yes,No,No,No,Yes,No,Matured_Young
+848,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+849,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+850,No,Don't know,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,Matured_Young
+851,Don't know,Yes,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,Young
+852,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+853,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Young
+854,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Young
+855,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+856,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Middle_Aged
+857,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Young
+858,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,Matured_Young
+859,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Matured_Young
+860,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Matured_Young
+861,Don't know,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+862,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+863,No,Don't know,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,Matured_Young
+864,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,Middle_Aged
+865,No,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,Matured_Young
+866,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+867,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,Matured_Young
+868,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,Matured_Young
+869,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+870,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Middle_Aged
+871,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Matured_Young
+872,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,Matured_Young
+873,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+874,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No,Matured_Young
+875,Don't know,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,Young
+876,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Young
+877,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Young
+878,Yes,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+879,Don't know,Yes,Very easy,Maybe,No,No,No,No,No,Don't know,No,Young
+880,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+881,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+882,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Yes,Matured_Young
+883,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,Matured_Young
+884,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Matured_Young
+885,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+886,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+887,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Matured_Young
+888,No,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Young
+889,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,Matured_Young
+890,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+891,No,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+892,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+893,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,Young
+894,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Matured_Young
+895,Don't know,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,No,Middle_Aged
+896,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+897,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+898,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Middle_Aged
+899,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Young
+900,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Young
+901,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,Matured_Young
+902,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,Young
+903,No,Yes,Very easy,No,No,No,No,No,Maybe,Yes,No,Young
+904,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Middle_Aged
+905,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,Middle_Aged
+906,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Young
+907,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No,No,Young
+908,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Matured_Young
+909,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,Middle_Aged
+910,No,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes,Middle_Aged
+911,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Middle_Aged
+912,No,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Young
+913,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+914,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+915,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Young
+916,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+917,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,Matured_Young
+918,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Young
+919,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Young
+920,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,Young
+921,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Matured_Young
+922,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Young
+923,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,Matured_Young
+924,Don't know,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Matured_Young
+925,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Young
+926,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,Matured_Young
+927,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Young
+928,No,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+929,Don't know,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Young
+930,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+931,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+932,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Matured_Young
+933,No,Don't know,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No,Matured_Young
+934,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,Young
+935,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No,Matured_Young
+936,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Matured_Young
+937,Don't know,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Yes,Matured_Young
+938,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+939,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Matured_Young
+940,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Young
+941,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+942,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Young
+943,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,Matured_Young
+944,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+945,No,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,Matured_Young
+946,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Middle_Aged
+947,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Matured_Young
+948,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+949,Don't know,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+950,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+951,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,Young
+952,No,Don't know,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,
+953,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+954,No,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+955,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Matured_Young
+956,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,No,Young
+957,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No,Matured_Young
+958,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Young
+959,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+960,No,Don't know,Very easy,No,No,No,Yes,No,Maybe,No,No,Matured_Young
+961,No,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Young
+962,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No,Matured_Young
+963,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+964,Yes,Don't know,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,Middle_Aged
+965,No,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+966,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Young
+967,Don't know,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Young
+968,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Middle_Aged
+969,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+970,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,Matured_Young
+971,No,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes,Young
+972,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Matured_Young
+973,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,Middle_Aged
+974,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+975,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+976,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Matured_Young
+977,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Yes,Young
+978,No,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Young
+979,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,Young
+980,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Matured_Young
+981,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,Matured_Young
+982,Yes,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Matured_Young
+983,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Young
+984,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+985,No,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Young
+986,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,Matured_Young
+987,No,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,Young
+988,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,Don't know,No,Young
+990,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+991,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Young
+992,Don't know,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,Young
+993,No,Yes,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,Young
+994,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,Yes,No,Young
+995,Don't know,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+996,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+997,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Young
+998,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Matured_Young
+999,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Young
+1000,Don't know,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Young
+1001,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+1002,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Matured_Young
+1003,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Yes,Young
+1004,No,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Yes,Matured_Young
+1005,Don't know,Don't know,Very easy,Maybe,No,Yes,Yes,No,No,Yes,No,Matured_Young
+1006,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Matured_Young
+1007,No,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+1008,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Matured_Young
+1009,No,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Matured_Young
+1010,Yes,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,Matured_Young
+1011,Don't know,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,Matured_Young
+1012,Don't know,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Young
+1013,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+1014,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Young
+1015,No,Yes,Very easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+1016,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+1017,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,No,Yes,Middle_Aged
+1018,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1019,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Yes,Don't know,Yes,Young
+1020,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,No,No,Young
+1021,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,Young
+1022,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Matured_Young
+1023,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,Matured_Young
+1024,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1025,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1026,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,No,Young
+1027,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+1028,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Matured_Young
+1029,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,Matured_Young
+1030,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Young
+1031,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+1032,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1033,No,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes,Young
+1034,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,Matured_Young
+1035,No,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,Matured_Young
+1036,No,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Young
+1037,Don't know,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,Matured_Young
+1038,No,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+1039,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Matured_Young
+1040,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,Young
+1041,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+1042,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Matured_Young
+1043,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1044,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,Young
+1045,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1046,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+1047,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,Young
+1048,Yes,Yes,Very difficult,No,No,Some of them,Some of them,No,No,Yes,Yes,Matured_Young
+1049,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,Yes,Matured_Young
+1050,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Young
+1051,No,Don't know,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No,Young
+1052,No,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1053,Don't know,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1054,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Matured_Young
+1055,Don't know,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+1056,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+1057,No,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+1058,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1059,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Yes,Don't know,No,Young
+1060,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Young
+1061,No,Yes,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+1062,No,Yes,Somewhat difficult,No,No,No,No,No,No,Don't know,No,Matured_Young
+1063,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1064,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,Young
+1065,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Young
+1066,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,No,Matured_Young
+1067,Don't know,Don't know,Somewhat difficult,Maybe,No,No,Yes,No,No,Don't know,No,Young
+1068,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Middle_Aged
+1069,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,Matured_Young
+1070,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1071,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Matured_Young
+1072,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,Matured_Young
+1073,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+1074,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Young
+1075,Yes,Yes,Don't know,Yes,Yes,No,No,No,Maybe,No,Yes,Matured_Young
+1076,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+1077,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Young
+1078,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Matured_Young
+1079,No,Yes,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No,Matured_Young
+1080,No,Yes,Very easy,Maybe,No,Yes,Yes,No,Maybe,No,No,Young
+1081,Yes,Don't know,Very difficult,No,Maybe,Yes,Yes,Maybe,No,Yes,No,Young
+1082,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,Young
+1083,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Matured_Young
+1084,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1085,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+1086,No,Don't know,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Matured_Young
+1087,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Matured_Young
+1088,Don't know,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+1089,Don't know,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Young
+1091,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1092,No,Don't know,Very difficult,Yes,No,Yes,Yes,No,Yes,No,No,Matured_Young
+1093,Don't know,Yes,Don't know,Yes,No,No,No,No,No,Yes,No,Young
+1094,Yes,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Matured_Young
+1095,No,No,Very difficult,No,No,No,No,No,No,No,Yes,Matured_Young
+1096,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+1097,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Matured_Young
+1098,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+1099,Don't know,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No,Matured_Young
+1100,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Young
+1101,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1102,No,No,Very difficult,Yes,Yes,No,No,No,Maybe,No,Yes,Matured_Young
+1103,No,Don't know,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No,Matured_Young
+1104,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Middle_Aged
+1105,Don't know,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Young
+1106,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,Middle_Aged
+1107,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Young
+1108,Don't know,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Matured_Young
+1109,No,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+1110,Don't know,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+1111,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,Yes,No,No,Young
+1112,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Matured_Young
+1113,Don't know,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Young
+1114,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+1115,No,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes,Young
+1116,Don't know,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No,Matured_Young
+1117,Don't know,Don't know,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Don't know,No,Middle_Aged
+1118,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No,Yes,Don't know,No,Matured_Young
+1119,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Matured_Young
+1120,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,Matured_Young
+1121,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Matured_Young
+1122,Don't know,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Matured_Young
+1123,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Middle_Aged
+1124,Don't know,Yes,Don't know,No,No,No,No,No,No,Yes,No,Matured_Young
+1125,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,Young
+1126,Don't know,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+1128,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Matured_Young
+1129,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Young
+1130,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,Matured_Young
+1131,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Yes,Matured_Young
+1132,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+1133,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Young
+1134,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,Young
+1135,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,Young
+1136,No,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Young
+1137,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+1138,No,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Young
+1139,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+1140,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,Young
+1141,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes,Young
+1142,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,Yes,Young
+1143,No,Yes,Don't know,Maybe,No,No,No,No,Yes,Yes,No,Young
+1144,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Yes,Yes,No,Young
+1145,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Young
+1146,Don't know,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Matured_Young
+1147,No,Yes,Very easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+1148,Yes,Don't know,Somewhat easy,Yes,No,No,Some of them,No,Yes,Don't know,No,Matured_Young
+1149,Don't know,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Matured_Young
+1150,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Matured_Young
+1151,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Young
+1152,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Matured_Young
+1153,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Matured_Young
+1154,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Matured_Young
+1155,No,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Matured_Young
+1156,Don't know,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1157,Don't know,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+1158,No,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Young
+1159,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Middle_Aged
+1160,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+1161,Yes,Don't know,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No,Young
+1162,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Young
+1163,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Young
+1164,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Middle_Aged
+1165,Don't know,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+1166,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Young
+1167,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Matured_Young
+1168,No,No,Very difficult,Yes,No,No,No,No,Maybe,Yes,No,Young
+1169,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Matured_Young
+1170,No,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No,Young
+1171,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Young
+1172,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes,Matured_Young
+1173,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Young
+1174,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No,Young
+1175,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,Yes,Matured_Young
+1176,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Young
+1177,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,Young
+1178,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Matured_Young
+1179,No,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No,Young
+1180,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,No,No,Matured_Young
+1181,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,Matured_Young
+1182,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Yes,
+1183,No,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Matured_Young
+1184,No,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+1185,Don't know,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Young
+1186,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Middle_Aged
+1187,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1188,No,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Young
+1189,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Matured_Young
+1190,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1191,Yes,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Matured_Young
+1192,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,Matured_Young
+1193,Don't know,Yes,Don't know,No,No,Some of them,Yes,Yes,Maybe,No,No,Matured_Young
+1194,No,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Young
+1195,No,Yes,Don't know,Yes,Yes,Some of them,Some of them,No,No,Yes,No,Matured_Young
+1196,No,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Matured_Young
+1197,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,Matured_Young
+1198,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No,Matured_Young
+1199,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Young
+1200,No,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Young
+1201,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes,Young
+1202,No,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Young
+1203,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,Young
+1204,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+1205,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Matured_Young
+1206,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,Matured_Young
+1207,No,No,Very easy,Maybe,Maybe,Some of them,Yes,No,No,No,No,Young
+1208,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Yes,Matured_Young
+1209,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Young
+1210,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Young
+1211,No,Don't know,Don't know,Yes,No,Yes,Some of them,No,No,No,Yes,Middle_Aged
+1212,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,Matured_Young
+1213,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,Yes,Young
+1214,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Matured_Young
+1215,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+1216,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Young
+1217,No,No,Somewhat difficult,Yes,Yes,Some of them,Some of them,No,No,No,No,Matured_Young
+1218,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Young
+1219,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Matured_Young
+1220,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Middle_Aged
+1221,Don't know,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Middle_Aged
+1222,Yes,No,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Matured_Young
+1223,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Yes,Young
+1224,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Young
+1225,No,Don't know,Don't know,No,No,Yes,Some of them,No,Maybe,Don't know,No,Young
+1226,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Yes,No,Matured_Young
+1227,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1228,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Young
+1229,No,Yes,Don't know,Yes,No,No,No,No,No,Don't know,No,Matured_Young
+1230,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+1231,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Young
+1232,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Young
+1233,No,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Young
+1234,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Young
+1235,Don't know,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Young
+1236,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,
+1237,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No,Yes,Young
+1238,Yes,Yes,Somewhat easy,Yes,Maybe,Some of them,Yes,No,No,No,Yes,Young
+1239,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No,Young
+1240,No,Yes,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Young
+1241,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Young
+1242,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Young
+1243,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Matured_Young
+1244,Don't know,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,Matured_Young
+1245,Yes,Yes,Don't know,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Yes,Young
+1246,Yes,Don't know,Somewhat easy,No,No,No,Some of them,Maybe,Yes,Don't know,No,Matured_Young
+1247,No,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,Yes,Matured_Young
+1248,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Matured_Young
+1249,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Young
+1250,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Young
+1251,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No,Matured_Young
+1252,No,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,No,No,Young
+1253,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Matured_Young
+1254,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Young
+1255,No,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,Yes,No,Matured_Young
+1256,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Matured_Young
+1257,No,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Middle_Aged
+1258,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Young
